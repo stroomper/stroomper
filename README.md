@@ -17,13 +17,14 @@ Estou desenvolvendo meus conhecimentos em programação, banco de dados e tecnol
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Estatísticas
 
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Ferramentas & Níveis
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/sql-server) 
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) 
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-| Tecnologia | Nível |
+| Linguagem / Tecnologia | Nível atual |
 |---|---|
 | Python | 🟢 Em desenvolvimento |
 | JavaScript | 🟢 Em desenvolvimento |
@@ -31,6 +32,16 @@ Estou desenvolvendo meus conhecimentos em programação, banco de dados e tecnol
 | C# | 🟡 Básico |
 | C++ | 🟡 Básico |
 | PHP | 🟡 Básico |
+
+### Atividade no GitHub
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=stroomper&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=stroomper&theme=dracula&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=stroomper&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ---
 
@@ -47,19 +58,6 @@ Projetos e exercícios desenvolvidos durante a graduação em Gestão da Tecnolo
 ### 🗄️ Plataforma de Streaming — SQL Server
 Banco de dados relacional desenvolvido para simular uma plataforma de streaming, incluindo usuários, perfis, assinaturas, pagamentos, conteúdos, episódios, avaliações e histórico de visualização.  
 **Tecnologias:** SQL • Microsoft SQL Server
-
----
-
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=stroomper&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=stroomper&theme=dracula&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=stroomper&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
 
 ---
 
