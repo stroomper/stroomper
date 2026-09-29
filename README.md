@@ -1,33 +1,79 @@
-## Bem-vindo(a) ao meu perfil 😁
+# 👋 Olá! Eu sou o George
 
- <div>
-   <a href="https://github.com/stroomper">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stroomper&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stroomper&layout=compact&langs_count=6&theme=material-palenight"/>
+🎓 Estudante de **Gestão da Tecnologia da Informação** na FATEC Itu
+💻 Em transição para a área de **Desenvolvimento de Software e TI**
+📍 Itu, São Paulo, Brasil
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-                  
-          
-</div>
- 
- <br>
- 
-  ### Me econtre nas redes🕸️!
- 
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/stro_omper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ge_henrique97@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gerogesoares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/stroomper/stroomper/blob/output/github-contribution-grid-snake.svg)
+Atualmente estou desenvolvendo meus conhecimentos em programação e buscando transformar o que aprendo em projetos práticos.
 
-</div>
+Tenho interesse principalmente em **Desenvolvimento de Software, Sistemas, Dados e Tecnologia aplicada à resolução de problemas**.
+
+---
+
+## 🚀 Sobre mim
+
+* 🎓 Gestão da Tecnologia da Informação — FATEC Itu
+* 📦 Técnico em Logística — ETEC Itu
+* 💻 Atualmente estudando desenvolvimento de software
+* 📊 Experiência com análise de dados e Power BI
+* 🧩 Gosto de transformar problemas em soluções práticas
+* 🌱 Sempre buscando aprender novas tecnologias e melhorar meus projetos
+
+---
+
+## 🛠️ Tecnologias
+
+### 💻 Linguagens
+
+`Python` `JavaScript` `C#` `C++` `PHP` `HTML` `CSS`
+
+### 📚 Atualmente estudando
+
+`Python` `JavaScript` `React` `Desenvolvimento Web` `Git & GitHub`
+
+### 📊 Dados e ferramentas
+
+`Power BI` `Excel` `Power Query` `Git`
+
+---
+
+## 📌 Projetos
+
+### 🅿️ Estacionamento Flux
+
+Sistema desenvolvido para gerenciamento de estacionamento.
+
+**Tecnologias:** JavaScript
+
+### 🎓 Projetos FATEC
+
+Projetos e exercícios desenvolvidos durante a graduação em Gestão da Tecnologia da Informação.
+
+**Tecnologias:** JavaScript
+
+### 🍳 Tempero da Casa
+
+Sistema de gerenciamento de pedidos desenvolvido como projeto acadêmico.
+
+**Tecnologias:** HTML • CSS
+
+---
+
+## 📈 Em desenvolvimento
+
+Atualmente estou construindo meu portfólio e aprofundando meus conhecimentos em desenvolvimento de software.
+
+Meu objetivo é evoluir de projetos acadêmicos e estudos para aplicações cada vez mais completas, organizadas e próximas de situações reais.
+
+---
+
+### Me econtre nas redes🕸️!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/stroomper)
+
+---
+
+⭐ Sinta-se à vontade para explorar meus repositórios.
+
