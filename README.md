@@ -25,8 +25,6 @@ Tenho interesse principalmente em **Desenvolvimento de Software, Sistemas, Banco
 
 ## 📊 Linguagens mais utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stroomper&layout=compact)
-
 | Tecnologia | Nível |
 |---|---|
 | Python | 🟢 Em desenvolvimento |
