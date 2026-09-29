@@ -56,11 +56,11 @@ Projetos e exercícios desenvolvidos durante a graduação em Gestão da Tecnolo
 
 **Tecnologias:** JavaScript
 
-### 🍳 Tempero da Casa
+### 🗄️ Plataforma de Streaming — SQL Server
 
-Sistema de gerenciamento de pedidos desenvolvido como projeto acadêmico.
+Banco de dados relacional desenvolvido para simular uma plataforma de streaming, incluindo usuários, perfis, assinaturas, pagamentos, conteúdos, episódios, avaliações e histórico de visualização.
 
-**Tecnologias:** HTML • CSS
+**Tecnologias:** SQL • Microsoft SQL Server
 
 ---
 
