@@ -22,23 +22,19 @@ Tenho interesse principalmente em **Desenvolvimento de Software, Sistemas, Banco
 
 ---
 
-## 🛠️ Tecnologias
 
-### 💻 Desenvolvimento
+## 📊 Linguagens mais utilizadas
 
-`Python` `JavaScript` `C#` `C++` `PHP` `HTML` `CSS`
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stroomper&layout=compact)
 
-### 🗄️ Banco de Dados
-
-`SQL` `Modelagem de Dados` `Banco de Dados Relacional`
-
-### 📚 Atualmente estudando
-
-`Python` `JavaScript` `React` `SQL` `Banco de Dados` `Desenvolvimento Web`
-
-### 📊 Dados e ferramentas
-
-`Power BI` `Excel` `Power Query` `Git` `GitHub`
+| Tecnologia | Nível |
+|---|---|
+| Python | 🟢 Em desenvolvimento |
+| JavaScript | 🟢 Em desenvolvimento |
+| SQL | 🟢 Em desenvolvimento |
+| C# | 🟡 Básico |
+| C++ | 🟡 Básico |
+| PHP | 🟡 Básico |
 
 ---
 
