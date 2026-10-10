@@ -10,28 +10,30 @@ Estou desenvolvendo meus conhecimentos em programação, banco de dados e tecnol
 
 ## 🚀 Sobre mim
 
-* 🎓 **Formação:** Gestão da Tecnologia da Informação — FATEC Itu | Técnico em Logística — ETEC Itu
-* 💻 **Foco:** Estudos em desenvolvimento de software e algoritmos
-* 🗄️ **Dados:** Estudos em Banco de Dados, SQL e experiência com Power BI
-* 🧩 **Perfil:** Gosto de transformar problemas em soluções práticas e busco evolução constante
+- 🎓 **Formação:** Gestão da Tecnologia da Informação — FATEC Itu | Técnico em Logística — ETEC Itu
+- 💻 **Foco:** Estudos em desenvolvimento de software, aplicações desktop e algoritmos
+- 🗄️ **Dados:** Estudos em Banco de Dados (SQL/SQLite), modelagem relacional e experiência com Power BI
+- 🧩 **Perfil:** Gosto de transformar problemas em soluções práticas e busco evolução constante
 
 ---
 
 ## 💻 Tech Stack & Estatísticas
 
 ### Ferramentas & Níveis
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/) 
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/) 
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/sql-server) 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 | Linguagem / Tecnologia | Nível atual |
 |---|---|
+| JavaScript / Node.js | 🟢 Em desenvolvimento |
+| Electron.js | 🟢 Em desenvolvimento |
+| SQL / SQLite / SQL Server | 🟢 Em desenvolvimento |
 | Python | 🟢 Em desenvolvimento |
-| JavaScript | 🟢 Em desenvolvimento |
-| SQL | 🟢 Em desenvolvimento |
 | C# | 🟡 Básico |
 | C++ | 🟡 Básico |
-| PHP | 🟡 Básico |
 
 ### Atividade no GitHub
 <p align="center">
@@ -47,17 +49,24 @@ Estou desenvolvendo meus conhecimentos em programação, banco de dados e tecnol
 
 ## 📌 Principais Projetos
 
+### 💄 Queridinha Makeup — Sistema de Caixa & PDV Desktop
+Sistema de automação comercial desktop desenvolvido sob medida para gestão de estoque, leitor de código de barras (EAN), suporte a produtos avulsos, fechamento de caixa, impressão térmica de comprovante não fiscal (80mm) e painel de análise com métricas (UPT e Curva ABC).  
+**Tecnologias:** Electron • Node.js • SQLite • JavaScript (ES6) • HTML5/CSS3 • XLSX  
+🔗 [Ver Repositório](https://github.com/stroomper/sistema-pdv-queridinha-makeup)
+
 ### 🅿️ Estacionamento Flux
 Sistema desenvolvido para gerenciamento de estacionamento.  
 **Tecnologias:** JavaScript
-
-### 🎓 Projetos FATEC
-Projetos e exercícios desenvolvidos durante a graduação em Gestão da Tecnologia da Informação.  
-**Tecnologias:** JavaScript
+🔗 [Ver Repositório](https://github.com/stroomper/estacionamento_Flux)
 
 ### 🗄️ Plataforma de Streaming — SQL Server
 Banco de dados relacional desenvolvido para simular uma plataforma de streaming, incluindo usuários, perfis, assinaturas, pagamentos, conteúdos, episódios, avaliações e histórico de visualização.  
 **Tecnologias:** SQL • Microsoft SQL Server
+🔗 [Ver Repositório](https://github.com/stroomper/plataforma-streaming-sql-server)
+
+### 🎓 Projetos FATEC
+Projetos e exercícios desenvolvidos durante a graduação em Gestão da Tecnologia da Informação.  
+**Tecnologias:** JavaScript
 
 ---
 
